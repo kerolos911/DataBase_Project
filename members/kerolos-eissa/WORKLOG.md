@@ -1,0 +1,4 @@
+- Added Attendance table with PK, FKs, UNIQUE and CHECK constraints
+- Added stored procedures: sp_MarkAttendance, sp_GetAttendanceByStudent, sp_GetAttendanceByCourse, sp_GetAttendanceSummary
+- Added seed data and test queries
+- Updated TASKS.md and WORKLOG.md
